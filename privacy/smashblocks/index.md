@@ -1,4 +1,4 @@
-# SquishBlocks — Privacy Policy
+# SmashBlocks — Privacy Policy
 
 > Last updated: 2026-02-28
 > Developer: JOTAD Labs
@@ -7,7 +7,7 @@
 
 ## Overview
 
-SquishBlocks ("the App") is a mobile puzzle game developed by JOTAD Labs ("we", "us", "our"). This privacy policy explains how we handle your data.
+SmashBlocks ("the App") is a mobile puzzle game developed by JOTAD Labs ("we", "us", "our"). This privacy policy explains how we handle your data.
 
 **In short: Your game data stays on your device. We collect minimal data, and only with your consent.**
 
@@ -36,7 +36,7 @@ When you make an in-app purchase, the transaction is handled entirely by Google 
 
 #### Advertising (Google AdMob)
 
-The free version of SquishBlocks displays ads provided by Google AdMob. AdMob may collect:
+The free version of SmashBlocks displays ads provided by Google AdMob. AdMob may collect:
 - Advertising ID (with your consent)
 - Device information (model, OS version)
 - IP address (for geographic ad targeting)
@@ -101,7 +101,7 @@ The only third-party services that may receive data are:
 
 ## 4. Children's Privacy
 
-SquishBlocks is rated for all ages (Everyone / 4+). We do not knowingly collect personal information from children under 13 (or the applicable age in your jurisdiction).
+SmashBlocks is rated for all ages (Everyone / 4+). We do not knowingly collect personal information from children under 13 (or the applicable age in your jurisdiction).
 
 When the app detects the user may be a child (based on age-gating or platform settings), personalized ads are disabled automatically, and only contextual (non-personalized) ads are shown, in compliance with COPPA and equivalent regulations.
 
@@ -143,7 +143,7 @@ If you have questions about this privacy policy or your data, contact:
 **JOTAD Labs**
 Email: [jotad.labs@gmail.com](mailto:jotad.labs@gmail.com)
 GitHub: [github.com/jotadlabs](https://github.com/jotadlabs)
-Privacy Policy: https://jotadlabs.github.io/privacy/squishblocks/
+Privacy Policy: https://jotadlabs.github.io/privacy/smashblocks/
 
 ---
 
@@ -163,4 +163,4 @@ Privacy Policy: https://jotadlabs.github.io/privacy/squishblocks/
 
 ---
 
-*This privacy policy applies to SquishBlocks version 1.0.0 and later.*
+*This privacy policy applies to SmashBlocks version 1.0.0 and later.*
