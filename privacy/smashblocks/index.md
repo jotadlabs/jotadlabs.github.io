@@ -143,7 +143,7 @@ If you have questions about this privacy policy or your data, contact:
 **JOTAD Labs**
 Email: [jotad.labs@gmail.com](mailto:jotad.labs@gmail.com)
 GitHub: [github.com/jotadlabs](https://github.com/jotadlabs)
-Privacy Policy: https://jotadlabs.github.io/privacy/smashblocks/
+Privacy Policy: [jotadlabs.github.io/privacy/smashblocks/](https://jotadlabs.github.io/privacy/smashblocks/)
 
 ---
 
