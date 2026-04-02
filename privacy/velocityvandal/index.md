@@ -1,6 +1,6 @@
 # Velocity Vandal — Privacy Policy
 
-> Last updated: 2026-02-28
+> Last updated: 2026-04-02
 > Developer: JOTAD Labs
 
 ---
@@ -22,7 +22,7 @@ The following data is stored **only on your device** and never transmitted to ou
 - **Game progress**: Levels completed, star ratings, sector unlock status
 - **Settings**: Audio volume, language preference, accessibility options (colorblind mode, reduced motion)
 - **Purchase records**: Which sector packs you have purchased (verified by the platform store)
-- **Gameplay statistics**: Play time, sessions played, rewinds used
+- **Gameplay statistics**: Play time, total launches used, bounces achieved, drones destroyed, glass shattered
 
 This data is stored in the app's sandboxed storage and is deleted when you uninstall the app.
 
@@ -30,7 +30,7 @@ This data is stored in the app's sandboxed storage and is deleted when you unins
 
 #### In-App Purchases (Google Play / Apple App Store)
 
-When you make an in-app purchase (Sector 2, 3, or 4 packs), the transaction is handled entirely by Google Play or Apple App Store. We do not collect or store your payment information. Please refer to:
+When you make an in-app purchase, the transaction is handled entirely by Google Play or Apple App Store. We do not collect or store your payment information. Available purchases include sector unlock packs (Sectors 2, 3, 4, and 6), the All-Sectors Bundle, Chronos Token packs, cosmetic skins and trails, hint packs, the Starter Pack, and the Level Editor unlock. Please refer to:
 - [Google Play Privacy Policy](https://policies.google.com/privacy)
 - [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
 
@@ -45,7 +45,7 @@ The free version of Velocity Vandal displays ads provided by Google AdMob. AdMob
 **You can choose:**
 - **Personalized ads**: AdMob uses your advertising ID to show relevant ads. Requires your consent.
 - **Non-personalized ads**: No tracking. Ads are based only on general context (game category, region).
-- **Sector unlock**: Purchasing any sector pack removes interstitial ads. Rewarded ads remain available but are always optional.
+- **Ad removal**: Making any in-app purchase removes interstitial ads. Rewarded ads remain available but are always optional.
 
 For more information, see the [Google AdMob Privacy Policy](https://policies.google.com/technologies/ads).
 
@@ -116,7 +116,7 @@ Depending on your jurisdiction (GDPR, CCPA, etc.), you have the right to:
 - **Opt-out**: Disable analytics and personalized ads in Settings
 - **Portability**: Game data is stored locally in standard formats
 
-Since we store no data on our servers (except anonymous analytics if opted in), uninstalling the app effectively deletes all your data.
+We store no data on our servers. Analytics data, if opted in, is stored only on your device and never transmitted. Uninstalling the app deletes all your data.
 
 ---
 
@@ -126,7 +126,6 @@ Since we store no data on our servers (except anonymous analytics if opted in), 
 - No data is transmitted over the network except:
   - IAP verification (via platform store, encrypted)
   - Ad requests (via AdMob SDK, encrypted)
-  - Analytics events (if opted in, encrypted)
 
 ---
 

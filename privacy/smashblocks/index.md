@@ -1,6 +1,6 @@
 # SmashBlocks — Privacy Policy
 
-> Last updated: 2026-02-28
+> Last updated: 2026-04-02
 > Developer: JOTAD Labs
 
 ---
@@ -116,7 +116,7 @@ Depending on your jurisdiction (GDPR, CCPA, etc.), you have the right to:
 - **Opt-out**: Disable analytics and personalized ads in Settings
 - **Portability**: Game data is stored locally in standard formats
 
-Since we store no data on our servers (except anonymous analytics if opted in), uninstalling the app effectively deletes all your data.
+We store no data on our servers. Analytics data, if opted in, is stored only on your device and never transmitted. Uninstalling the app deletes all your data.
 
 ---
 
@@ -126,7 +126,6 @@ Since we store no data on our servers (except anonymous analytics if opted in), 
 - No data is transmitted over the network except:
   - IAP verification (via platform store, encrypted)
   - Ad requests (via AdMob SDK, encrypted)
-  - Analytics events (if opted in, encrypted)
 
 ---
 
