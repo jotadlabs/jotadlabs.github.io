@@ -35,6 +35,10 @@ The free version of Bloomlings displays ads provided by Google AdMob. AdMob may 
 - **Non-personalized ads**: No tracking. Ads are based only on general context (game category, region).
 - **Ad Removal**: Purchasing the Ad Removal upgrade permanently removes interstitial ads. Rewarded ads remain available but are always optional.
 
+**GDPR / EU Consent**: For users in the EU/EEA, we use the **Google User Messaging Platform (UMP)** SDK to collect consent before any ad is loaded. The UMP form is Google's official Consent Management Platform (CMP) and is shown automatically on first launch. If you decline, only non-personalized ads are served.
+
+**iOS App Tracking Transparency (ATT)**: The `NSUserTrackingUsageDescription` key is present in the app. On iOS, ATT consent is collected as part of the Google UMP CMP consent form. Users can manage tracking preferences via Settings > Privacy > Tracking.
+
 For more information, see the [Google AdMob Privacy Policy](https://policies.google.com/technologies/ads).
 
 #### Analytics (Optional, Opt-In)

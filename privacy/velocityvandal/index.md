@@ -47,6 +47,8 @@ The free version of Velocity Vandal displays ads provided by Google AdMob. AdMob
 - **Non-personalized ads**: No tracking. Ads are based only on general context (game category, region).
 - **Ad removal**: Making any in-app purchase removes interstitial ads. Rewarded ads remain available but are always optional.
 
+**GDPR / EU Consent**: For users in the EU/EEA, we use the **Google User Messaging Platform (UMP)** SDK to collect consent before any ad is loaded. The UMP form is Google's official Consent Management Platform (CMP) and is shown automatically on first launch. If you decline, only non-personalized ads are served.
+
 For more information, see the [Google AdMob Privacy Policy](https://policies.google.com/technologies/ads).
 
 #### Analytics (Optional, Opt-In)
@@ -157,7 +159,7 @@ Privacy Policy: [jotadlabs.github.io/privacy/velocityvandal/](https://jotadlabs.
 ### Apple App Store
 
 - Privacy Nutrition Labels reflect data types described above
-- App Tracking Transparency (ATT) prompt shown before any tracking
+- **App Tracking Transparency (ATT)**: The `NSUserTrackingUsageDescription` key is present in the app. On iOS, ATT consent is collected as part of the Google UMP CMP consent form (which includes the IDFA tracking purpose). Users can manage tracking preferences via Settings > Privacy > Tracking.
 - SKAdNetwork used for privacy-preserving ad attribution
 
 ---
