@@ -1,6 +1,6 @@
 # Velocity Vandal — Privacy Policy
 
-> Last updated: 2026-04-02
+> Last updated: 2026-04-14
 > Developer: JOTAD Labs
 
 ---
@@ -67,6 +67,21 @@ Analytics data is:
 
 **Analytics is disabled by default.** You must explicitly opt in via Settings > Privacy > Analytics.
 
+#### Crash Reporting (Sentry)
+
+To improve stability, the app captures crash reports and script errors using **Sentry** (by Functional Software Inc.). When a crash occurs, Sentry may collect:
+- Crash stack trace and error message
+- Device information (model, OS version, available memory)
+- App version at the time of the crash
+
+This data is:
+- Transmitted to Sentry's servers (sentry.io) when a crash or error occurs
+- Used solely to identify and fix bugs
+- Not linked to your identity (no name, email, or advertising ID)
+- Retained according to Sentry's data retention policy
+
+For more information, see the [Sentry Privacy Policy](https://sentry.io/privacy/).
+
 ### 1.3 Data We Do NOT Collect
 
 - ❌ Your name, email, or any personal contact information
@@ -88,6 +103,7 @@ Analytics data is:
 | Purchase records | Unlock purchased sectors | Your device + store |
 | Advertising ID | Personalized ads (with consent) | Google AdMob servers |
 | Analytics (opt-in) | Improve game balance | Anonymous, aggregated |
+| Crash reports | Identify and fix bugs | Sentry servers |
 
 ---
 
@@ -128,6 +144,7 @@ We store no data on our servers. Analytics data, if opted in, is stored only on 
 - No data is transmitted over the network except:
   - IAP verification (via platform store, encrypted)
   - Ad requests (via AdMob SDK, encrypted)
+  - Crash reports (via Sentry SDK, only when crashes or errors occur, encrypted)
 
 ---
 

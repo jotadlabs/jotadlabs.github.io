@@ -1,6 +1,6 @@
 # Privacy Policy — Bloomlings
 
-**Last updated:** 2026-04-02
+**Last updated:** 2026-04-14
 
 **Developer:** JOTAD Labs
 
@@ -56,6 +56,14 @@ Analytics data is:
 
 **Analytics is disabled by default.** You must explicitly opt in via the consent dialog on first launch, or via Settings → Privacy.
 
+#### Crash Reporting (Sentry)
+To improve stability, the app captures crash reports and script errors using **Sentry** (by Functional Software Inc.). When a crash occurs, Sentry may collect:
+- Crash stack trace and error message
+- Device information (model, OS version, available memory)
+- App version at the time of the crash
+
+This data is transmitted to Sentry's servers (sentry.io) when a crash or error occurs. It is used solely to identify and fix bugs, is not linked to your identity, and is not shared with third parties for advertising. For more information, see the [Sentry Privacy Policy](https://sentry.io/privacy/).
+
 ### Data We Do NOT Collect
 - ❌ Your name, email, or any personal contact information
 - ❌ Your location (GPS, Wi-Fi, or cell tower)
@@ -79,6 +87,7 @@ Bloomlings does not knowingly collect personal information from children under 1
 - Apple App Store (iOS purchases)
 - Google Play Store (Android purchases)
 - Google AdMob (advertising, with consent)
+- Sentry (crash reporting, transmitted only on crashes or errors)
 
 ## Changes to This Policy
 We may update this privacy policy. Changes will be noted with an updated date at the top of this document and posted at the URL below.
