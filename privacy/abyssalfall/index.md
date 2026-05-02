@@ -1,11 +1,11 @@
-# Privacy Policy — AbyssalFall
+﻿# Privacy Policy — AbyssalFall
 
 **Last updated:** 2026-05-02
 
-**Developer:** JOTAD Labs
+**Developer:** Jotad Labs
 
 ## Overview
-AbyssalFall ("the App") is a mobile game developed by JOTAD Labs. We are committed to protecting your privacy and being transparent about the data we collect.
+AbyssalFall ("the App") is a mobile game developed by Jotad Labs. We are committed to protecting your privacy and being transparent about the data we collect.
 
 **In short: Your game data stays on your device. We collect minimal data, and only with your consent.**
 
@@ -91,7 +91,7 @@ We may update this privacy policy. Changes will be noted with an updated date at
 ## Contact Us
 If you have questions about this privacy policy:
 
-**JOTAD Labs**
-Email: [dev@jotadlabs.com](mailto:dev@jotadlabs.com)
+**Jotad Labs**
+Email: [jotad.labs@gmail.com](mailto:jotad.labs@gmail.com)
 GitHub: [github.com/jotadlabs](https://github.com/jotadlabs)
 Privacy Policy: [jotadlabs.github.io/privacy/abyssalfall/](https://jotadlabs.github.io/privacy/abyssalfall/)

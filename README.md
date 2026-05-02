@@ -1,6 +1,6 @@
-# jotadlabs.github.io
+﻿# jotadlabs.github.io
 
-Public GitHub Pages site for **JOTAD Labs** — privacy policies and support pages for our mobile games.
+Public GitHub Pages site for **Jotad Labs** — privacy policies and support pages for our mobile games.
 
 ## Live URLs
 
@@ -52,4 +52,4 @@ Support pages are self-contained HTML with inline CSS (dark theme).
 
 ## Contact
 
-dev@jotadlabs.com
+jotad.labs@gmail.com
